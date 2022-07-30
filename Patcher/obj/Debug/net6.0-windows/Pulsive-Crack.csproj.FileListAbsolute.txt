@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\Pulsive-Crack.exe
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\Pulsive-Crack.deps.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\Pulsive-Crack.runtimeconfig.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\Pulsive-Crack.pdb
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\refint\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.pdb
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive-Crack.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\ref\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\Pulsive_Crack.Pulsive_Patcher.resources

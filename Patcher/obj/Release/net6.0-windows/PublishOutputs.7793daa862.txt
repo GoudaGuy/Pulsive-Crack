@@ -1,0 +1,5 @@
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\publish\Pulsive-Crack.exe
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\publish\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\publish\Pulsive-Crack.deps.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\publish\Pulsive-Crack.runtimeconfig.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\publish\Pulsive-Crack.pdb

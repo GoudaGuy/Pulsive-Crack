@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\linux-x64\Pulsive-Crack
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\linux-x64\Pulsive-Crack.deps.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\linux-x64\Pulsive-Crack.runtimeconfig.json
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\linux-x64\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\bin\Debug\net6.0-windows\linux-x64\Pulsive-Crack.pdb
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive_Crack.Pulsive_Patcher.resources
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\refint\Pulsive-Crack.dll
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.pdb
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\Pulsive-Crack.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Pulsive-Crack\Pulsive-Crack\obj\Debug\net6.0-windows\linux-x64\ref\Pulsive-Crack.dll
