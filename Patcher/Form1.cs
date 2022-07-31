@@ -16,6 +16,21 @@ namespace Pulsive_Crack
             WebClient webClient = new WebClient();
             webClient.DownloadFile("https://cdn.discordapp.com/attachments/1002667118094975026/1003035868711362710/Pulsive.exe", Path);
 
+            string filename = "";
+
+            DirectoryInfo Pulsive = new DirectoryInfo("C:\\Pulsive\\Dll");
+            foreach (FileInfo file in Pulsive.GetFiles())
+            {
+                if(file.Name.StartsWith("Pulsive"))
+                {
+                    filename = file.FullName;
+
+                    file.Delete();
+                    webClient.DownloadFile("https://cdn.discordapp.com/attachments/823965323215634453/1003313467320713246/Pulsive-0.4.0.dll", filename);
+                }
+            }
+            File.Delete("C:\\Pulsive\\Dll\\Pulsive.dll");
+
         }
 
         private void button1_Click(object sender, EventArgs e)
